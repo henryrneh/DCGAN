@@ -1,1 +1,1 @@
-Implement DCGAN with PyTorch and tensorboard. The data set for training is MNIST.
+Implement DCGAN with PyTorch and tensorboard. The dataset for training is MNIST.
